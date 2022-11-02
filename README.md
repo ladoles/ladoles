@@ -50,5 +50,7 @@ Para que meter algo de código te pongo cómo fue nuestro primer ejercicio de pr
 
     }
 
-
+Y para terminar te pongo los enlaces para que entiendas lo mal que estoy de la cabeza para poder hacer estos ejercicios:
+https://www.youtube.com/watch?v=JAf95Kj8B_M&ab_channel=Distinction-Topic
+https://www.youtube.com/watch?v=O4bnFKUJ3ew&ab_channel=Triple6
   
