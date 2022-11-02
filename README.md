@@ -33,4 +33,4 @@ Razones por las que estoy estudiando este grado superior:
 
 - [ ] Mi pareja me enseñó lo que él habia dado en este Grado hace muchos años ya y me pareció interesante.
 
-
+~~Aquí un meme que representa mi cabeza el primer día de clase.
