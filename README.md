@@ -27,4 +27,4 @@ Razones por las que estoy estudiando este grado superior:
 
 ~~Aquí un meme que representa mi cabeza el primer día de clase.~~
 
-(https://github.com/ladoles/ladoles/blob/main/1.jpg)
+!(https://github.com/ladoles/ladoles/blob/main/1.jpg)
