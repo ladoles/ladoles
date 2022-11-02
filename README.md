@@ -6,10 +6,15 @@ _Lo cual sería mucho más fácil si no hubiesemos tenido la mitad de los profes
 Lista de asignaturas que tenemos:
 
 -Programación
+
 -Entornos
+
 -FOL
+
 -Base de Datos
+
 -Lenguaje de marcas
+
 -Sistemas
 
 Lista de profesores:
