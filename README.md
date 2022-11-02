@@ -55,6 +55,9 @@ https://www.youtube.com/watch?v=JAf95Kj8B_M&ab_channel=Distinction-Topic
 
 https://www.youtube.com/watch?v=O4bnFKUJ3ew&ab_channel=Triple6
   
+Y aqui enlace a este mismo repositorio y a la imagen que esta subida sin que se muestre.
 https://github.com/ladoles/ladoles/blob/main/README.md
 
 https://github.com/ladoles/ladoles/blob/main/1.jpg
+
+Muchas gracias por llegar hasta aquí, si has escuchado las dos canciones enteras te pago un café por las molestias. 😘
