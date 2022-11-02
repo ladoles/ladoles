@@ -26,12 +26,10 @@ Lista de profesores:
 6. NO LO TENEMOS AÚN Y ES EL TUTOR 😕.
 
 Razones por las que estoy estudiando este grado superior:
-
 - [ ] Porque no he encontrado trabajo desde 2020 buscando por todos los medios disponibles.
-
 - [ ] Quería meterme en DAW pero no había plazas.
-
 - [ ] Mi pareja me enseñó lo que él habia dado en este Grado hace muchos años ya y me pareció interesante.
 
 ~~Aquí un meme que representa mi cabeza el primer día de clase.~~
+
 https://github.com/ladoles/ladoles/blob/main/1.jpg
