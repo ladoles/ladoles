@@ -27,10 +27,10 @@ Lista de profesores:
 
 Razones por las que estoy estudiando este grado superior:
 
--[] Porque no he encontrado trabajo desde 2020 buscando por todos los medios disponibles.
+- [ ] Porque no he encontrado trabajo desde 2020 buscando por todos los medios disponibles.
 
--[] Quería meterme en DAW pero no había plazas.
+- [ ] Quería meterme en DAW pero no había plazas.
 
--[] Mi pareja me enseñó lo que él habia dado en este Grado hace muchos años ya y me pareció interesante.
+- [ ] Mi pareja me enseñó lo que él habia dado en este Grado hace muchos años ya y me pareció interesante.
 
 
