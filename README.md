@@ -33,3 +33,22 @@ Lista de profesores:
 ~~Aquí un meme que representa mi cabeza el primer día de clase.~~
 
 ![](https://github.com/ladoles/ladoles/blob/main/1.jpg)
+
+Para que meter algo de código te pongo cómo fue nuestro primer ejercicio de programación en __Eclipse__:
+
+    private static void EJ1() {
+
+      String nombre;
+
+      System.out.print("¿Cómo te llamas? ");
+
+      Scanner entrada=new Scanner(System.in);
+
+      nombre=entrada.next();
+  
+      System.out.println("Hola "+nombre+".");
+
+    }
+
+
+  
